@@ -10,4 +10,5 @@ mod 'puppetlabs/vcsrepo', '2.3.0'
 mod 'puppetlabs/accounts', '2.0.0'
 mod 'puppetlabs/apache', '3.2.0'
 
+mod 'puppet/system', '0.8.1'
 mod 'puppet/r10k', '6.5.1'
