@@ -19,6 +19,7 @@ mod 'saz/timezone', '5.0.0'
 # Debian specific
 mod 'puppetlabs/apt', '4.5.1'
 mod 'puppet/unattended_upgrades', '3.2.0'
+mod 'stm/debconf', '2.2.0'
 
 # Applications
 mod 'puppetlabs/apache', '3.2.0'
