@@ -14,6 +14,8 @@ mod 'puppet/system', '0.8.1'
 mod 'puppet/r10k', '6.5.1'
 mod 'puppet/archive', '3.1.0'
 
+mod 'saz/timezone', '5.0.0'
+
 # Debian specific
 mod 'puppetlabs/apt', '4.5.1'
 mod 'puppet/unattended_upgrades', '3.2.0'
