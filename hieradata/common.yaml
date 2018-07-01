@@ -8,4 +8,5 @@ ntp::servers:
   - 2.debian.pool.ntp.org
   - 3.debian.pool.ntp.org
 
+timezone::timezone: 'Europe/Vienna'
 
