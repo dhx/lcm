@@ -28,6 +28,7 @@ mod 'puppetlabs/mysql', '5.4.0'
 mod 'puppetlabs/postgresql', '5.6.0'
 mod 'puppetlabs/ruby', '1.0.0'
 mod 'puppet/php', '5.3.0'
+mod 'puppet/python', '2.0.0'
 
 mod 'puppetlabs/docker', '1.1.0'
 
