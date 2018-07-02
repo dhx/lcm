@@ -28,6 +28,7 @@ mod 'puppet/php', '5.3.0'
 
 mod 'puppetlabs/docker', '1.1.0'
 
+mod 'puppet/zabbix', '6.3.2'
 mod 'puppet/grafana', '4.4.0'
 mod 'puppet/gitlab', '2.1.0'
 
