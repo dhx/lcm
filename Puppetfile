@@ -13,6 +13,7 @@ mod 'puppet/logrotate', '3.2.1'
 mod 'puppet/system', '0.8.1'
 mod 'puppet/r10k', '6.5.1'
 mod 'puppet/archive', '3.1.0'
+mod 'puppet/selinux', '1.5.2'
 
 mod 'saz/timezone', '5.0.0'
 
@@ -24,6 +25,8 @@ mod 'stm/debconf', '2.2.0'
 # Applications
 mod 'puppetlabs/apache', '3.2.0'
 mod 'puppetlabs/mysql', '5.4.0'
+mod 'puppetlabs/postgresql', '5.6.0'
+mod 'puppetlabs/ruby', '1.0.0'
 mod 'puppet/php', '5.3.0'
 
 mod 'puppetlabs/docker', '1.1.0'
@@ -35,4 +38,6 @@ mod 'puppet/gitlab', '2.1.0'
 # Certs
 mod 'puppet/letsencrypt', '2.4.0'
 
+# Systemd
+mod 'camptocamp-systemd', '1.1.1'
 
