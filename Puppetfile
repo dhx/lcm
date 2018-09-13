@@ -36,6 +36,8 @@ mod 'puppet/zabbix', '6.3.2'
 mod 'puppet/grafana', '4.4.0'
 mod 'puppet/gitlab', '2.1.0'
 
+mod 'oxc-dovecot', '1.1.0'
+
 # Certs
 mod 'puppet/letsencrypt', '2.4.0'
 
