@@ -44,3 +44,5 @@ mod 'puppet/letsencrypt', '2.4.0'
 # Systemd
 mod 'camptocamp-systemd', '1.1.1'
 
+# Monitoring
+mod 'gnubilafrance-check_mk', '0.7.1'
