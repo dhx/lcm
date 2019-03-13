@@ -12,7 +12,7 @@ mod 'puppetlabs/accounts', '2.0.0'
 mod 'puppet/logrotate', '3.2.1'
 mod 'puppet/system', '0.8.1'
 mod 'puppet/r10k', '6.5.1'
-mod 'puppet/archive', '3.1.0'
+mod 'puppet/archive', '3.2.1'
 mod 'puppet/selinux', '1.5.2'
 
 mod 'saz/timezone', '5.0.0'
@@ -36,11 +36,16 @@ mod 'puppet/zabbix', '6.3.2'
 mod 'puppet/grafana', '4.4.0'
 mod 'puppet/gitlab', '2.1.0'
 
-mod 'oxc-dovecot', '1.1.0'
-
 # Certs
 mod 'puppet/letsencrypt', '2.4.0'
 
 # Systemd
 mod 'camptocamp-systemd', '1.1.1'
 
+# Monitoring
+mod 'gnubilafrance-check_mk', '0.7.1'
+
+# Mail
+mod 'oxc-dovecot', '1.1.0'
+mod 'tohuwabohu-roundcube', '3.4.1'
+mod 'willdurand-composer', '1.2.7'
